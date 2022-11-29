@@ -43,7 +43,7 @@ p {
   width: 470px;
 }
 
-.container-fluid {
+.cftititle {
   padding: 9% 10% 2% 8%;
   text-align: center;
 }
@@ -51,6 +51,15 @@ p {
   padding-right: 135px;
 }
 
+/* Skillset section */
+
 .skills_sec{
   background-color: #EAE3D2;
+}
+.cfskillset{
+  padding: 30px;
+}
+span{
+  color: transparent;
+  text-shadow: #000000;
 }
