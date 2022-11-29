@@ -57,9 +57,30 @@ h1 {
   background-color: #EAE3D2;
 }
 .cfskillset{
-  padding: 30px;
+  padding: 50px;
 }
 span{
   color: transparent;
   text-shadow: #000000;
+}
+
+.skill{
+  text-align: center;
+}
+.card-body{
+  height:50vh;
+
+}
+
+
+
+h3{
+  font-family: 'Roboto Slab', serif;
+  color: #1C3879;
+  margin:3px;
+}
+
+p{
+  font-family: 'Nunito', sans-serif;
+   color:#505050;
 }
