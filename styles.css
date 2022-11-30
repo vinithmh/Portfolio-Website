@@ -15,12 +15,12 @@
   font-family: 'Nunito', sans-serif;
   font-size: 1.20rem;
 }
-.navbar-nav{
+
+.navbar-pad {
   padding-right: 150px;
 }
 
-
-.navbar {
+.navbar-header {
   background-color: #1C3879;
 }
 
@@ -31,7 +31,7 @@ h1 {
   padding-left: 20px;
 }
 
-.about{
+.about {
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
   padding-top: 60px;
@@ -47,40 +47,95 @@ h1 {
   padding: 9% 10% 2% 8%;
   text-align: center;
 }
-.proimage{
+
+.proimage {
   padding-right: 135px;
 }
 
 /* Skillset section */
-
-.skills_sec{
+.skills_sec {
   background-color: #EAE3D2;
 }
-.cfskillset{
+
+.cfskillset {
   padding: 50px;
 }
-span{
+
+span {
   color: transparent;
   text-shadow: #000000;
 }
 
-.skill{
+.skill {
   text-align: center;
 }
-.card-body{
-  height:50vh;
 
+.card-body {
+  height: 50vh;
 }
 
-
-
-h3{
+h3 {
   font-family: 'Roboto Slab', serif;
   color: #1C3879;
-  margin:3px;
+  margin: 3px;
 }
 
-p{
+p {
   font-family: 'Nunito', sans-serif;
-   color:#505050;
+  color: #505050;
+}
+
+/* Footer contact section */
+.cfcontact {
+  background-color: #EAE3D2;
+  padding: 60px;
+}
+
+.navbar-footer {
+  background-color: #607EAA;
+  padding: 1rem;
+}
+
+.footercontact {
+  padding: 0;
+}
+
+.navcon {
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+  word-spacing: 8px;
+  font-size: 1.75rem;
+  padding: 0 20px 0 550px;
+  border-left: 300px;
+}
+
+.footicon {
+  padding: 30px 50px;
+}
+
+.contact {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  color: #505050;
+}
+
+.footer_sec {
+  text-align: center;
+  padding: 4% 10%;
+}
+
+.social-icons {
+
+  padding: 0 18px 10px;
+}
+
+.copyright {
+  font-family: 'Nunito', sans-serif;
+  margin-top: 30px;
+  font-size: 1.25rem;
+}
+
+a {
+  text-decoration: none;
+  color: #1C3879;
 }
