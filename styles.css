@@ -56,7 +56,10 @@ h1 {
 .skills_sec {
   background-color: #EAE3D2;
 }
-
+.skills_title{
+  text-align: center;
+  padding: 5% 0 3% 0;
+}
 .cfskillset {
   padding: 50px;
 }
