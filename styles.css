@@ -3,6 +3,10 @@
   background-color: #607EAA;
 }
 
+h1, h3, h5 {
+  font-family: 'Roboto Slab', serif;
+}
+
 .navbar-brand {
   padding: 15px 15px 15px 170px;
   font-family: 'Roboto Slab', serif;
@@ -17,7 +21,7 @@
 }
 
 .navbar-pad {
-  padding-right: 150px;
+  padding-right: 75px;
 }
 
 .navbar-header {
@@ -25,7 +29,6 @@
 }
 
 h1 {
-  font-family: 'Roboto Slab', serif;
   color: #ffffff;
   padding-top: 60px;
   padding-left: 20px;
@@ -52,21 +55,46 @@ h1 {
   padding-right: 135px;
 }
 
+/* Project section */
+.prologo {
+  width: 20%;
+  float: left;
+  margin: 30px;
+}
+
+.projects {
+  padding: 10px;
+}
+
+.card-head {
+  height: 30vh;
+}
+
+.projects_title {
+  text-align: center;
+  padding: 8% 0 3% 0;
+}
+
+.prohead {
+  padding: 15px 0 8px 0;
+}
+
+.proicon {
+  padding: 0 10px 25px 0;
+}
+
 /* Skillset section */
 .skills_sec {
   background-color: #EAE3D2;
 }
-.skills_title{
+
+.skills_title {
   text-align: center;
   padding: 5% 0 3% 0;
 }
+
 .cfskillset {
   padding: 50px;
-}
-
-span {
-  color: transparent;
-  text-shadow: #000000;
 }
 
 .skill {
@@ -77,8 +105,7 @@ span {
   height: 50vh;
 }
 
-h3 {
-  font-family: 'Roboto Slab', serif;
+h3, h5 {
   color: #1C3879;
   margin: 3px;
 }
@@ -128,7 +155,6 @@ p {
 }
 
 .social-icons {
-
   padding: 0 18px 10px;
 }
 
