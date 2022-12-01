@@ -66,6 +66,11 @@ h1 {
   padding: 10px;
 }
 
+.cfprojects{
+  padding: 50px;
+}
+
+
 .card-head {
   height: 30vh;
 }
@@ -113,6 +118,26 @@ h3, h5 {
 p {
   font-family: 'Nunito', sans-serif;
   color: #505050;
+}
+
+.gfgimg{
+  width: 20%;
+
+
+}
+
+.cod_pro_img{
+  float: left;
+  margin: 30px;
+}
+
+.cod_pro_head{
+  padding-top: 50px;
+  padding-left: 30px;
+}
+
+.cfprofile{
+  padding: 50px;
 }
 
 /* Footer contact section */
