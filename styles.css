@@ -1,23 +1,25 @@
 .title_sec {
   width: 100%;
-  background-color: #607EAA;
+  background-color: #607eaa;
 }
 
-h1, h3, h5 {
-  font-family: 'Roboto Slab', serif;
+h1,
+h3,
+h5 {
+  font-family: "Roboto Slab", serif;
 }
 
 .navbar-brand {
   padding: 15px 15px 15px 170px;
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   word-spacing: 8px;
   font-size: 1.75rem;
 }
 
 .nav-item {
   padding: 15px 25px 15px 15px;
-  font-family: 'Nunito', sans-serif;
-  font-size: 1.20rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.2rem;
 }
 
 .navbar-pad {
@@ -25,7 +27,7 @@ h1, h3, h5 {
 }
 
 .navbar-header {
-  background-color: #1C3879;
+  background-color: #1c3879;
 }
 
 h1 {
@@ -35,7 +37,7 @@ h1 {
 }
 
 .about {
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #ffffff;
   padding-top: 60px;
   padding-left: 20px;
@@ -66,18 +68,17 @@ h1 {
   padding: 10px;
 }
 
-.cfprojects{
+.cfprojects {
   padding: 50px;
 }
 
-
 .card-head {
-  height: 30vh;
+  height: 40vh;
 }
 
 .projects_title {
   text-align: center;
-  padding: 8% 0 3% 0;
+  padding: 4% 0 3% 0;
 }
 
 .prohead {
@@ -88,9 +89,18 @@ h1 {
   padding: 0 10px 25px 0;
 }
 
+.keeper {
+  padding-top: 30px;
+  /* height: 10vh; */
+}
+
+.keeplink {
+  padding-left: 185px;
+}
+
 /* Skillset section */
 .skills_sec {
-  background-color: #EAE3D2;
+  background-color: #eae3d2;
 }
 
 .skills_title {
@@ -110,44 +120,43 @@ h1 {
   height: 50vh;
 }
 
-h3, h5 {
-  color: #1C3879;
+h3,
+h5 {
+  color: #1c3879;
   margin: 3px;
 }
 
 p {
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #505050;
 }
 
-.gfgimg{
+.gfgimg {
   width: 20%;
-
-
 }
 
-.cod_pro_img{
+.cod_pro_img {
   float: left;
   margin: 30px;
 }
 
-.cod_pro_head{
+.cod_pro_head {
   padding-top: 50px;
   padding-left: 30px;
 }
 
-.cfprofile{
+.cfprofile {
   padding: 50px;
 }
 
 /* Footer contact section */
 .cfcontact {
-  background-color: #EAE3D2;
+  background-color: #eae3d2;
   padding: 60px;
 }
 
 .navbar-footer {
-  background-color: #607EAA;
+  background-color: #607eaa;
   padding: 1rem;
 }
 
@@ -156,7 +165,7 @@ p {
 }
 
 .navcon {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   color: #ffffff;
   word-spacing: 8px;
   font-size: 1.75rem;
@@ -170,7 +179,7 @@ p {
 
 .contact {
   text-align: center;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #505050;
 }
 
@@ -184,12 +193,12 @@ p {
 }
 
 .copyright {
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   margin-top: 30px;
   font-size: 1.25rem;
 }
 
 a {
   text-decoration: none;
-  color: #1C3879;
+  color: #1c3879;
 }
